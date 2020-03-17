@@ -1,0 +1,38 @@
+.cubito{
+    width: 100px;
+    height: 100px;
+}
+
+.cubito .blue{
+background-color: blue ;
+}
+
+.cubito.red{
+background-color: lightgray;
+}
+
+.cubito.green{
+    background-color: lightsalmon;
+}
+
+.cubitos-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.direction{
+    flex-direction: colum-reverse;
+}
+
+.center{
+    height:
+    border:
+    align-items:
+    justify-content:
+}
+
+.align{
+    height:
+    border:
+    align-items:
+}

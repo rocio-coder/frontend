@@ -1,0 +1,12 @@
+.body {
+    background-color: green;
+}
+
+.contenedor{
+    width: 360px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

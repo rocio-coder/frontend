@@ -1,0 +1,40 @@
+.body {
+    background-color: green;
+}
+
+.flex-container{
+    width: 360px;
+    height: 300px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-family: 'Spartan', sans-serif;
+
+input{
+    display: block;
+    padding-left: 15px;
+    width: 225px;
+    margin-bottom: 15px;
+    height: 46px;
+    background-color: lightgrey;
+    border: none;
+
+}
+
+form{
+    width: 270px ;
+    background-color:white ;
+    padding: 45px;
+}
+
+button{
+    background-color: lightseagreen;
+    border: none;
+    height: 46px;
+    width: 270px;
+    color: white;
+}
+

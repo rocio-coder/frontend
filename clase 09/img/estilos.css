@@ -1,0 +1,13 @@
+.hero {
+    height: 500px;
+    background-image: url("img/elBackground");
+    background-size: 175%;
+    background-position: -125px -225px ;
+    background-repeat: repeat-y;
+    height: 500px;
+}
+
+.hero h1 {
+    margin: 0;
+}
+

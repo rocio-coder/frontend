@@ -1,0 +1,46 @@
+.first{
+    background-color: mediumaquamarine;
+    
+ }
+ .two{
+    background-color: darkgreen;
+ }
+ 
+ .three{
+    background-color: black;
+ }
+ 
+ .four {
+    background-color: blue;
+ }
+ 
+ 
+ .first. .container{
+     background-color: darkgoldenrod;
+     font-size: 15px;
+     }
+ 
+  .two.container{
+     background-color: darkorange;
+     
+  }
+ 
+  .three.container{
+     background-color: darkturquoise;
+     
+  }
+ 
+  .four.container{
+     background-color: darkseagreen;
+     
+  }
+ 
+  .section{
+  font-family: 'Lacquer', sans-serif ;
+  color: #333;
+  }
+ 
+  .container {
+     margin: 15px auto;
+     width: 600px;
+  }

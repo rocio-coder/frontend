@@ -1,0 +1,21 @@
+.iconitos .fas,
+.iconitos .fab{
+    font-size: 50px;
+}
+
+
+.lista{
+    list-style-type: none;
+}
+.fa{
+    color: purple;
+}
+
+.fa{
+    color: lightblue;
+}
+
+.iconitos li{
+    margin-bottom: 25px;
+    display: inline-block;
+}

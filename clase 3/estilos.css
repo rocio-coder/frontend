@@ -1,0 +1,53 @@
+.fondo-violeta {
+    background-color: crimson;
+}
+
+.texto-remarcado{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.block{
+    display: block;
+}
+
+.inline-{
+    display: inline;
+}
+
+.background-azul{
+    background: burlywood;
+}
+
+.subrayado {
+    text-decoration: chartreuse;
+}
+
+.color-negro{
+    color:black; 
+}
+
+div{
+    color: blue;
+}
+
+.seccion-2{
+    background-color: darkgreen;
+    display: inline-block;
+    width: 350px;
+    text-align:center;
+    overflow: hidden;
+}
+
+.box-model{
+    border: 1px dotted #333;
+    text-align:center;
+}
+
+.span-contenido{
+    margin: 20px;
+    display: inline-block;
+    padding: 15px;
+    border:3px solid black;
+
+}

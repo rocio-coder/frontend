@@ -1,0 +1,27 @@
+#personajes {   
+    list-style-tipe: disc;
+    background-color: lightseagreen;
+    color: black;
+      }
+.p1{
+    background-color: lightseagreen;
+    color: black;
+}
+
+.p2 {
+    background-color: lightseagreen;
+    color: black;
+}
+
+.span-contenido{
+    margin: 20px;
+    display: inline-block;
+    padding: 15px;
+    border:3px solid yellowgreen;
+
+}
+
+.box-model{
+    border: 1px dotted #333;
+    text-align:center;
+}

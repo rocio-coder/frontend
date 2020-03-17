@@ -1,0 +1,28 @@
+.cotainer{
+    padding:35px;
+}
+
+.card{
+    border-radius: 5px;
+    box-shadow: 0 0 5px cornflowerblue;
+    height: 550px;
+    overflow: hidden;
+    width: 350px;
+    padding-bottom:20px;
+}
+
+.header-img {
+    max-width:100px
+}
+
+.artist-name{
+    margin-top:0;
+}
+
+.card-content{
+    padding:25px;
+}
+
+.artistt-name{
+    font-style: oblique ;
+}
