@@ -1,0 +1,64 @@
+. cubito {
+    ancho : 100 px ;
+    altura : 100 px ;
+  }
+  . cubito . azul {
+    color de fondo : darkcyan;
+  }
+  . cubito . rojo {
+    color de fondo : carmesí;
+  }
+  . cubito . verde {
+    color de fondo : verde;
+  }
+  
+  . cubitos-contenedor {
+    pantalla : flex;
+    margen inferior : 30 px ;
+  }
+  
+  . envoltura flexible {
+    flex-wrap : envoltura;
+  }
+  . dirección {
+    dirección flexible : columna inversa;
+    / *
+      4 valores posibles
+      1. fila (valor por defecto)
+      2. reverso de fila
+      3. columna
+      4. columna inversa
+    * /
+  }
+  
+  . justificar {
+    justify-content : espacio de manera uniforme;
+    / *
+      Valores mas comunes:
+      1. flex-start (valor por defecto)
+      2. extremo flexible
+      3. espacio de manera uniforme
+      4. espacio intermedio
+      5. espacio alrededor
+      6. centro
+    * /
+  }
+  
+  . alinear {
+    altura : 250 px ;
+    borde : 1 px negro sólido;
+    alinear elementos : centro;
+    / *
+      valores comunes:
+      1. flex-start (valor por defecto)
+      2. extremo flexible
+      3. centro
+    * /
+  }
+  
+  . centro {
+    altura : 250 px ;
+    borde : 1 px negro sólido;
+    alinear elementos : centro; / * verticalmente al centro * /
+    justify-content : centro; / * horizontalmente en el centro * /
+  }

@@ -1,0 +1,42 @@
+.section{
+    background-color: brown;
+    margin-top: auto;
+    padding-left: 50px;
+    border-left: 3px solid #FFFFFF;
+    padding: 30px;
+    width: 450px;
+    margin-left: 400px;
+    display: block;
+
+
+    
+
+
+
+
+}
+
+.body{
+    background-color: blue;
+}
+
+.container{
+    text-align: center;
+    color: white;
+    line-height: 30PX; ;
+}
+
+.imagen{
+    width: 200px;
+    margin-left: 5px;
+    margin-top: 100px;
+}
+
+#contenedor{
+    text-align: center;
+}
+
+.titulo{
+    text-decoration-color: yellow;
+    text-decoration-style: wavy;
+}

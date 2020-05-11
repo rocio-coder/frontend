@@ -1,0 +1,23 @@
+  
+.iconitos .fas ,
+.iconitos .fabuloso {
+  
+  font-size : 50px ;
+}
+
+.lista {
+  list-style-type:none;
+}
+.iconitos  li {
+
+  margin-left : 25px ;
+  display : block;
+}
+
+. fa-gitkraken {
+  color: red;
+}
+
+. fa-linkedin {
+  color : blue;
+}

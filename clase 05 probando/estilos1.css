@@ -1,0 +1,42 @@
+#personas{
+list-style-type: lower-latin;
+color: crimson;
+position: fixed;
+text-align: unset;
+width: 26px;
+}
+
+.titulo{
+
+    background-color: chocolate;
+    font-weight: 800;
+    outline-style: auto;
+    size: 100px;
+}
+
+
+.tipoparrafo{
+
+    color: darkblue;
+    font-weight: 500;
+    outline-style: dashed;
+    size: 50px;
+}
+
+.body{
+    background-color: darkorange;
+}
+
+.titulo2{
+    color: crimson;
+    font-weight: 600;
+    outline-style: initial;
+    size: 75px;
+}
+
+.titulo3{
+    background-color: greenyellow;
+    font-weight: 500;
+    outline-style: hidden;
+    size: 30px;
+}

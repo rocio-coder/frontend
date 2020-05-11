@@ -1,0 +1,36 @@
+.span-contenido{
+    margin: 15px;
+    border:15px;
+    padding: 15px;
+    }
+
+.body{
+    background-color: tomato;
+}
+
+.seccion1{
+    background-color: yellow;
+}    
+
+.titulo{
+    font-size: 30px;
+    color: blue;
+}
+
+.texto-remarcado{
+    font-size: 80px;
+}
+
+.parrafo0{
+    background-color: chocolate;
+}
+
+.seccion2{
+    background-color: darkblue;
+
+}
+
+#lista{
+    background-color: darkred;
+}
+
